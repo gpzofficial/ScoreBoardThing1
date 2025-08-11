@@ -1,6 +1,5 @@
 using UnityEngine;
 using TMPro;
-using UnityEngine.Android;
 
 public class NewDataInputManager : MonoBehaviour
 {
