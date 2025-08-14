@@ -33,7 +33,7 @@ public class QrRevealer : MonoBehaviour
 
     void ShowQr()
     {
-        GetComponent<RectTransform>().DOAnchorPosY(140, 0.4f).SetEase(Ease.OutBack);
+        GetComponent<RectTransform>().DOAnchorPosY(210, 0.4f).SetEase(Ease.OutBack);
     }
 
     void HideQr()
